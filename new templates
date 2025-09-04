@@ -1,0 +1,8 @@
+new-luxacart/
+├── app.py
+├── requirements.txt
+├── static/
+│   └── css/
+│       └── style.css
+└── templates/
+    └── index.html
